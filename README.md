@@ -1,5 +1,5 @@
 # Introduction
-This is the replication package for our work published by IEEE ACCESS, i.e., Hao Li, Tian Wang, Weifeng Pan, Muchou Wang, Chunlai Chai, Pengyu Chen, Jiale Wang, Jing Wang. Mining Key Classes in Java Projects by Examining a Very Small Number of Classes: A Complex Network based Approach. IEEE Access, 2021, 9: 28076-28088. [[PDF](#)]
+This is the replication package for our work published by IEEE ACCESS, i.e., Hao Li, Tian Wang, Weifeng Pan, Muchou Wang, Chunlai Chai, Pengyu Chen, Jiale Wang, Jing Wang. Mining Key Classes in Java Projects by Examining a Very Small Number of Classes: A Complex Network based Approach. IEEE Access, 2021, 9: 28076-28088. [[PDF](https://ieeexplore.ieee.org/document/9351963)]
 
 Author Contributions: Hao Li performed the experiments and analyzed the data. Hao Li and Tian Wang wrote the paper. Weifeng Pan conceived of the idea. Other authors proofread the paper. All authors have read and approved the final manuscript.
 
@@ -12,4 +12,4 @@ The MinClass directory contains the Python code which implements our MinClass ap
 # Cite our work
 If you use our data set or tool, please cite our work.
 
-Hao Li, Tian Wang, Weifeng Pan, Muchou Wang, Chunlai Chai, Pengyu Chen, Jiale Wang, Jing Wang. Mining Key Classes in Java Projects by Examining a Very Small Number of Classes: A Complex Network based Approach. IEEE Access, 2021, 9: 28076-28088. [[PDF](#)]
+Hao Li, Tian Wang, Weifeng Pan, Muchou Wang, Chunlai Chai, Pengyu Chen, Jiale Wang, Jing Wang. Mining Key Classes in Java Projects by Examining a Very Small Number of Classes: A Complex Network based Approach. IEEE Access, 2021, 9: 28076-28088. [[PDF](https://ieeexplore.ieee.org/document/9351963)]
