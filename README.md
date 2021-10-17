@@ -24,7 +24,7 @@ If you use our data set or tool, please cite our work.
 
 Hao Li, Tian Wang, Weifeng Pan, Muchou Wang, Chunlai Chai, Pengyu Chen, Jiale Wang, Jing Wang. Mining Key Classes in Java Projects by Examining a Very Small Number of Classes: A Complex Network based Approach. IEEE Access, 2021, 9: 28076-28088. [[PDF](https://ieeexplore.ieee.org/document/9351963)]
 
-Weifeng Pan, Beibei Song, Kangshun Li, Kejun Zhang. Identifying Key Classes in Object-Oriented Software using Generalized k-Core Decomposition. Future Generation Computer Systems, 2018, 81: 188-202. 
+Weifeng Pan, Beibei Song, Kangshun Li, Kejun Zhang. Identifying Key Classes in Object-Oriented Software using Generalized k-Core Decomposition. Future Generation Computer Systems, 2018, 81: 188-202.  [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167739X17302492)]
 
-Weifeng Pan, Bing Li, Jing Liu, Yutao Ma, Bo Hu. Analyzing the structure of Java software systems by weighted k-core decomposition. Future Generation Computer Systems, 2018, 83: 431-444.
+Weifeng Pan, Bing Li, Jing Liu, Yutao Ma, Bo Hu. Analyzing the structure of Java software systems by weighted k-core decomposition. Future Generation Computer Systems, 2018, 83: 431-444. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167739X17320940)]
 
