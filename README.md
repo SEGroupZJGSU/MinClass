@@ -12,6 +12,10 @@ source_node3 target_node3 weight3
 source_node4 target_node4 weight4
 ....
 
+The files with suffix "-kc.txt" contain the key classes in the corresponding system. They have the following format:
+"node number in the corresponding CCN" "name of the key class"
+....
+
 # MinClass
 The MinClass directory contains the Python code which implements our MinClass approach and the approaches in the baseline. It is a small part of our own developped software, SNAP. Of course, the SNAP software can be obtained by emailing us (Email: wfpan@zjgsu.edu.cn).
 
