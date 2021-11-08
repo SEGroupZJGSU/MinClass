@@ -1,7 +1,0 @@
-764 "org.gjt.sp.jedit.Buffer"
-803 "org.gjt.sp.jedit.EBMessage"
-408 "org.gjt.sp.jedit.EditPane"
-353 "org.gjt.sp.jedit.View"
-114 "org.gjt.sp.jedit.jEdit"
-747 "org.gjt.sp.jedit.textarea.JEditTextArea"
-475 "org.gjt.sp.util.Log"
